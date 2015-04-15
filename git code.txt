@@ -1,3 +1,0 @@
-git remote add origin https://github.com/rchmielecki/datasciencecoursera.git
-git commit -m “sdfsdf”
-git push -u origin master
