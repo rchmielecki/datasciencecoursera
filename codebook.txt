@@ -1,4 +1,4 @@
-The following are the variables (columns) contained in the tidy dataset “tidy data.txt”. Each of the variables 3 through 68 represents the mean of all observations for each subject and each activity.
+The following are the variables (columns) contained in the tidy dataset. Each of the variables 3 through 68 represents the mean of all observations for each subject and each activity.
 
 1 Subject
 2 Activity
